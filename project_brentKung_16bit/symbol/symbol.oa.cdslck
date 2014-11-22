@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      dwortmann
 HostName                       tux-36.cae.wisc.edu
-ProcessIdentifier              6361
-ProcessCreationTime_UTC        1416682941
-ProcessCreationTime_Readable   Sat Nov 22 13:02:21 2014 CST
+ProcessIdentifier              6604
+ProcessCreationTime_UTC        1416697205
+ProcessCreationTime_Readable   Sat Nov 22 17:00:05 2014 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /userspace/d/dwortmann/Desktop/ece555/cadence/ECE555/project_brentKung_16bit/symbol/symbol.oa.cdslck
-TimeEditLocked                 Sat Nov 22 16:39:51 2014 CST
+FilePathUsedToEditLock         /userspace/d/dwortmann/Desktop/ece555/cadence/ECE555/project_brentKung_16bit/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Sat Nov 22 17:07:04 2014 CST
