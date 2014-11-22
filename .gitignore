@@ -1,2 +1,10 @@
 cdsinfo.tag
 data.dm
+DFF_TB/
+DFF_PosClk_AsyncRstN/
+FoF_TB/
+inv/
+INV*
+NAND*
+P3_H3*
+STD/
