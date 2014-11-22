@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jlpeterson
+HostName                       tux-37.cae.wisc.edu
+ProcessIdentifier              26915
+ProcessCreationTime_UTC        1416691895
+ProcessCreationTime_Readable   Sat Nov 22 15:31:35 2014 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /userspace/j/jlpeterson/ece555/cadence/ECE555/project_dff_16bit/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Nov 22 15:53:24 2014 CST
