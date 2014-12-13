@@ -1,0 +1,4 @@
+SOFTINCLUDE /cae/apps/data/cadence-2013/installs/IC616/share/cdssetup/cds.lib
+DEFINE ECE555 /userspace/d/dwortmann/Desktop/ece555/cadence/ECE555
+#Removed by ddDeleteObj: DEFINE ece555 /userspace/d/dwortmann/Desktop/ece555/cadence/ece555
+DEFINE ece555 /userspace/d/dwortmann/Desktop/ece555/cadence/ece555
